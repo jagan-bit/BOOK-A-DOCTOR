@@ -92,3 +92,12 @@
         </Col>
 
       </Row>
+ </Col>
+
+      </Row>
+
+    </Container>
+  );
+};
+
+export default UserHome;
